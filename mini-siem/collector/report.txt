@@ -1,0 +1,9 @@
+
+=== SECURITY REPORT ===
+
+Successful logins: 1
+Failed logins: 5
+
+Suspicious IPs:
+
+ALERT: 192.168.1.10 -> 5 failed attempts
